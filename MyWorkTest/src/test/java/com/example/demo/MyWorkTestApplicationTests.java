@@ -8,6 +8,7 @@ class MyWorkTestApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("TEST METHOD ");
 	}
 
 }
